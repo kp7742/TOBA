@@ -1,0 +1,17 @@
+{
+  "name": "TOBA",
+  "version": "1.0.2",
+  "authors": [
+    {
+      "name": "Kuldip Patel",
+      "email": "patel.kuldip91@gmail.com"
+    }
+  ],
+  "description": "Token Based Online Authentication System Server",
+  "require": {
+    "ext-sodium": "*",
+    "ext-openssl": "*",
+    "ext-json": "*",
+    "ext-mysqli": "*"
+  }
+}

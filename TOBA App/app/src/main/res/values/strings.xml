@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TokenAuth</string>
+    <string name="project_name">Token Based Authentication System</string>
+    <string name="login">Login</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="data">Data</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="unique_user_id">ID</string>
+    <string name="message">Message</string>
+</resources>

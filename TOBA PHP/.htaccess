@@ -1,0 +1,6 @@
+RewriteEngine On # Turn on the rewriting engine
+RewriteRule    ^login/?$    login.php    [NC,L]
+RewriteRule    ^message/?$    msg.php    [NC,L]
+RewriteRule    ^keygen/?$    keygen.php    [NC,L]
+RewriteRule    ^serverpublic/?$    ServerPublic.php    [NC,L]
+#RewriteRule    ^login/([0-9]+)/?$    login.php?id=$1    [NC,L]
